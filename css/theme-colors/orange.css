@@ -1,0 +1,373 @@
+.cd-top, article.news h5:after, .comment_form h5:after, .range .button:hover {
+    background: #f7931e;
+}
+
+.top_bar ul li i, .price_area h1 span, .column-outer:hover .price_area h1 span, .recent_post ul li span {
+    color: #f7931e;
+}
+
+header nav ul li a.active, .header_bottom nav ul li a.active, .practice-bar figure i, .my-selector a:hover, .my-selector a.selected {
+    color: #2fc0df;
+}
+
+nav ul li ul.dropdown-menu li a:hover, .shop_wrap .heading a {
+    background: #2fc0df;
+}
+
+#menu_11 .mainmenu nav ul li a:hover, .cart_11 a:hover, .doctors-list ul li span, .prevent_list ul li:before, .symp_img .heding span, .contact_info .heding span, .product_style11 .heding span, .prevent_slider .heding span, .about_style11 .about_text span, .news_details .n_readmore:before, .imed_detail span, .features_list ul li:before, .symptom_block .heding span, .side_widget address strong i, .my-selector a:hover, .my-selector a.selected {
+    color: #2fc0df;
+}
+
+.product_block .p_details a {
+    border: 2px solid #2fc0df;
+}
+
+.symp_lists ul li .sym_icon {
+    border: 1px solid #2fc0df;
+}
+
+#menu_11 .mainmenu nav ul li ul li:hover, .prevention_info .p_sidebar .s_title:after, .symp_inner li:hover .symp_d, .product_style11 .heding p:after, .contact_info .heding h2:after, .product_block .p_details a:hover, .imed_detail h2:after, .news_style11 .heding p:after, .contact_details form input[type='button'], .prevent_slider .heding p:after, .owl_prevent_slider .owl-dots .owl-dot.active span, .m_button .btn_red, .prevent_openingtime, .met_doctors .headnig:after, .symp_img .heding h2:after, .about_style11 .about_text h2:after, .footer11 .button, .quick_tips .heding p:after, .symptom_block .heding h2:after, .head_area, .column-outer:hover .price_area, .column-outer:hover {
+    background-color: #2fc0df;
+}
+
+.team figure .innner_lay {
+    background-color: rgba(47, 192, 223, .76);
+}
+
+.logo_text span {
+    color: #2fc0df;
+}
+
+.column-outer, .icon_box {
+    border-color: #2fc0df;
+}
+
+.column-outer:hover .icon_box {
+    border-color: #f7931e;
+}
+
+.column-outer:hover .head_area {
+    background: #f7931e;
+}
+
+.button.blue, .btn_11 a {
+    background: #f7931e;
+    color: #fff !important;
+}
+
+.button:hover {
+    background: #2fc0df;
+}
+
+.button.blue:hover {
+    background: #2fc0df;
+    border-color: #2fc0df;
+}
+
+header form a i, .cl-info h2 span, .title h2 span, .practice-bar ul li a:before, .doctors-sec, .featur:after, .options ul li.active a, .news_wrap.st2 .meta ul li a, .news_wrap.st2 .meta ul li span, .heading.hp5 h3 span, .header-09 nav ul li a.active, .header-09 nav ul li a:hover, .features-09 .feat:hover i, .about_sec .apara ul li i, .gihead h6, .testi_list i, .award_wrap_second .meta ul li span, .header-09 nav>ul>li>a:before, .award_wrap_second .meta ul li a, header .navigation-bar_10 nav ul li a.active, .navigation-bar_10 nav ul li a:hover, .ser_breadcrumb i {
+    color: #2fc0df;
+}
+
+.header-09 nav>ul, .cta_btn a:hover, .msg_form .button:hover {
+    border-color: #2fc0df;
+}
+
+.icon1 {
+    background-image: url(../../image/icon1_4.png);
+}
+
+.icon2 {
+    background-image: url(../../image/icon2_4.png);
+}
+
+.icon3 {
+    background-image: url(../../image/icon3_4.png);
+}
+
+.icon4 {
+    background-image: url(../../image/icon4_4.png);
+}
+
+.ser_inner .detail i {
+    background: url(../../image/ser_icon_g.png) no-repeat;
+}
+
+a:hover {
+    color: #f7931e;
+}
+
+.footer_widget .social a:hover {
+    border: 0px;
+    background: #f7931e;
+}
+
+.footer_widget h4:after, .footer_second .footer_widget h4:after {
+    background: #f7931e;
+}
+
+.award>a {
+    color: #2fc0df;
+    text-decoration: underline;
+}
+
+.meta ul li a {
+    color: #2fc0df;
+}
+
+.meta ul li span {
+    color: #2fc0df;
+}
+
+.team figure .innner_lay {
+    background: rgba(247, 147, 30, 0.89);
+}
+
+header form input[type="text"] {
+    border-color: #f7931e;
+}
+
+.slide_content, .about_imod .about_img figure, .feature_two .feature figure, .services_two .service:hover, .side_widget>ul>li a:hover, .side_widget>ul>li a.active, .layer, .tp-bgimg.defaultimg:before {
+    background: rgba(247, 147, 30);
+    background: -moz-linear-gradient(left, rgba(247, 147, 30) 0%, rgba(247, 147, 30, 0.89) 36%, rgba(47, 192, 223, 0.7) 66%, rgba(47, 192, 223, 0.7) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(247, 147, 30)), color-stop(36%, rgba(247, 147, 30, 0.89)), color-stop(66%, rgba(47, 192, 223, 0.7)), color-stop(100%, rgba(47, 192, 223, 0.7)));
+    background: -webkit-linear-gradient(left, rgba(247, 147, 30) 0%, rgba(247, 147, 30, 0.89) 36%, rgba(47, 192, 223, 0.7) 66%, rgba(47, 192, 223, 0.7) 100%);
+    background: -o-linear-gradient(left, rgba(247, 147, 30) 0%, rgba(247, 147, 30, 0.89) 36%, rgba(47, 192, 223, 0.7) 66%, rgba(47, 192, 223, 0.7) 100%);
+    background: -ms-linear-gradient(left, rgba(247, 147, 30) 0%, rgba(247, 147, 30, 0.89) 36%, rgba(47, 192, 223, 0.7) 66%, rgba(47, 192, 223, 0.7) 100%);
+    background: linear-gradient(to right, rgba(247, 147, 30) 0%, rgba(247, 147, 30, 0.89) 36%, rgba(47, 192, 223, 0.7) 66%, rgba(47, 192, 223, 0.7) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cf3182', endColorstr='#ee8457', GradientType=1);
+}
+
+.main_info .info_inner h4 {
+    color: #2fc0df;
+}
+
+.main_info .info_inner h5, footer.hp5 .footer_detail ul li i {
+    color: #f7931e;
+}
+
+.heading h3 span {
+    color: #2fc0df;
+}
+
+.heading:after, footer.hp5 .footer_widget h4:after, .topbar .social_icon ul li a i:hover, .cd-top.st2, .award_wrap_second .heading:after {
+    background: #f7931e;
+}
+
+.department .inner_dep, .testi_inner {
+    background: rgba(247, 147, 30, 0.89);
+}
+
+.footer_detail ul li i, .feature_two .feature .detail>a {
+    color: #f7931e;
+}
+
+.header_bottom {
+    background: #2fc0df;
+}
+
+.header_bottom form input[type="text"] {
+    background: #20b0cf;
+}
+
+.header_bottom form a {
+    background: #108199;
+}
+
+.top_bar.color-chang {
+    background-color: #f7931e;
+}
+
+.lyr4.cl {
+    background-color: #f7931e;
+    color: #fff;
+    border: none;
+}
+
+.slide_content .iner_content h4 {
+    color: #f7931e;
+}
+
+.appointment_wrap .inner_appointments, .promotion.st2 .inner_promotion {
+    background: rgba(247, 147, 30, 0.89);
+}
+
+.hp6-nav ul ul li {
+    background-color: #f7931e;
+    padding: 10px;
+}
+
+.hp6-nav ul ul li a:hover {
+    color: #2fc0df;
+}
+
+.contact_detail .address, .side_widget form button, .forms-fiedls form button, footer.hp5 .button, .testi_three.st2 .heading:after, .title:before, .heading.hp5:after, .testi_three.st2 p:before, .header-09 .navhead, .line, .services_sec9 .owl-nav .owl-next, .gtransport .featurs .feat:hover i, .cta_btn a, .msg_form .button, .header-09 .hbutn:hover, .main-slider2 .lyr4:hover, .footer_second .button, .navigation-bar_10 .navhead, .service_sec2 .card:hover .btn, .stats_sec2 .stats-head-outer {
+    background: #2fc0df;
+}
+
+.side_widget .heading_c:after {
+    background: #f7931e;
+}
+
+.shop .button:hover, .shop:hover .button {
+    background: #f7931e;
+    border-color: #f7931e;
+}
+
+.maped_detail.contact_detail .address.pink {
+    background: #f7931e;
+}
+
+.shop_wrap .price p strong {
+    color: #2fc0df;
+}
+
+.shop_wrap .star i {
+    color: #f2a07d;
+}
+
+div#slider-range span {
+    background: #f09a79;
+}
+
+.shop span {
+    color: #f1a17e;
+}
+
+.shop_cates li div h3 {
+    color: #d13a87;
+}
+
+.shop_cates li div a i {
+    color: #f2a482;
+}
+
+.botom-bar, .appointment-lnk a, .pt-service:hover, .post-date, .client-review-carousel .owl-dot.active, .widget-about form button, .counter-section:before, .responsive_button, .responsive_nav ul li a:hover {
+    background-color: #f7931e;
+}
+
+header nav ul li a:hover {
+    color: #2fc0df;
+}
+
+.button {
+    background-color: #f7931e;
+}
+
+.button:hover {
+    background-color: #2fc0df;
+}
+
+.header_bottom nav ul li a:hover {
+    color: #2fc0df;
+}
+
+.service-info i, .toggle-item h2:before, .post-links ul li i, .post-links>a, .widget-tweets ul li a, .title2 h2 span, .heading2 h3, .heading3 h3 {
+    color: #f7931e;
+}
+
+.service-info i {
+    border-color: #f7931e;
+}
+
+.team_wrap.st2 .team figure .innner_lay {
+    background: rgba(247, 147, 30, 0.89);
+}
+
+.spa-slider .lyr4 {
+    background-color: #f7931e;
+    color: #fff;
+    border: 1px solid #f7931e;
+}
+
+.spa-slider .lyr4:hover {
+    background-color: transparent;
+    color: #f7931e;
+}
+
+.header-09 .navhead:before {
+    border-top: 73px solid transparent;
+    border-right: 35px solid #2fc0df;
+}
+
+.features-09 .feat:hover:after {
+    border-left: 10px solid transparent;
+    border-bottom: 10px solid #2fc0df;
+}
+
+.features-09 .feat:hover:after {
+    border-left: 10px solid transparent;
+    border-bottom: 10px solid #2fc0df;
+}
+
+.service_sec2 .card:hover:after {
+    border-bottom-color: #2fc0df;
+}
+
+.service_tab:hover:after {
+    border-bottom-color: #2fc0df;
+}
+
+.navigation-bar_10 .navhead::before {
+    border-top: 73px solid #222;
+    border-right: 40px solid #2fc0df;
+}
+
+/*Homepage 10 & Services 03 Contact 03*/
+
+header.header_style_ten ul li i, header.header_style_ten nav ul ul li a:hover, .about_sectwo .about_content .heading h5, .shop_section .product_detail .price, .shop_section .product_detail .name:hover a, .news_section .news_block .news_detail h5:hover a, .news_section .news_block .info li a, .lab_testimonials.style_two h5:before, .lab_testimonials.style_two h5:after, .cos_two .price_area h1, .column-outer.cos_two:hover .head_area h1, .cos_two .price_area h1 span, .column-outer.cos_two:hover .price_area h1 span, .cd_two .heading h3 span {
+    color: #f7931e !important;
+}
+
+header.header_style_ten .header_bottom, .main-slider.style_two .lyr4:hover, .three_column_sec .news_column:hover .inner_column, .about_sectwo .about_content .heading:after, .heading.style_two:after, .shop_slider .owl-dots .owl-dot.active, footer.style_two .footer_detail, footer.style_two .footer_widget h4:after, footer.style_two .footer_widget .social a:hover, .responsive_button.rb_2, .responsive_nav.rn_2 ul li a:hover, .cd_two .heading:after, .contact_detail.cd_two .address {
+    background: #f7931e;
+}
+
+header.header_style_ten .header_bottom form a {
+    background: #c87009;
+}
+
+header.header_style_ten .button:hover {
+    background: #f7931e;
+    border-color: #f7931e;
+}
+
+.counter_sec .inner_sec:before {
+    background-color: rgba(247, 147, 30, 0.8);
+}
+
+.three_column_sec .news_column a.read_more {
+    color: #f7931e;
+    border-bottom: 1px solid #f7931e;
+}
+
+.promotion.style_two .inner_promotion .button:hover {
+    background: #f7931e;
+    border: 1px solid #f7931e;
+}
+
+.shop_section .product_detail .category:hover a {
+    color: #f7931e;
+    border-bottom: 1px solid #f7931e;
+}
+
+.cannabis_counter .circle-chart__background {
+    stroke: #f7931e;
+}
+
+.team .details span {
+    color: #2fc0df;
+}
+
+.footer_detail p {
+    color: #fff;
+}
+
+.cos_two:hover .foot_area .button {
+    background: #f7931e;
+    border: 2px solid #f7931e;
+}
+
+.contact_detail.cd_two .button:hover {
+    background: #e58a20;
+    border-color: #e58a20;
+}

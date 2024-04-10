@@ -1,0 +1,322 @@
+.cd-top, article.news h5:after, .comment_form h5:after {
+    background: #ee8557
+}
+
+.top_bar ul li i, .side_widget address strong i {
+    color: #ee8557
+}
+
+header nav ul li a.active, .header_bottom nav ul li a.active, .practice-bar figure i {
+    color: #cf3183
+}
+
+nav ul li ul.dropdown-menu li a:hover {
+    background: #cf3183
+}
+
+.button {
+    background: #cf3183
+}
+
+.button.blue {
+    background: #ee8557
+}
+
+.button:hover {
+    background: #ee8557
+}
+
+.button.blue:hover {
+    background: #cf3183;
+    border-color: #cf3183
+}
+
+header form a i, .cl-info h2 span, .title h2 span, .practice-bar ul li a:before, .doctors-sec, .featur:after, .options ul li.active a, .news_wrap.st2 .meta ul li a, .news_wrap.st2 .meta ul li span, .heading.hp5 h3 span, .header-09 nav ul li a.active, .header-09 nav ul li a:hover, .features-09 .feat:hover i, .about_sec .apara ul li i, .gihead h6, .testi_list i, .award_wrap_second .meta ul li span, .header-09 nav>ul>li>a:before, .award_wrap_second .meta ul li a, header .navigation-bar_10 nav ul li a.active, .navigation-bar_10 nav ul li a:hover, .ser_breadcrumb i {
+    color: #cf3183
+}
+
+.icon1 {
+    background-image: url(../../image/icon1_3.png)
+}
+
+.icon2 {
+    background-image: url(../../image/icon2_3.png)
+}
+
+.icon3 {
+    background-image: url(../../image/icon3_3.png)
+}
+
+.icon4 {
+    background-image: url(../../image/icon4_3.png)
+}
+
+header form input[type="text"] {
+    border-color: #cf3183
+}
+
+.slide_content, .about_imod .about_img figure, .feature_two .feature figure, .services_two .service:hover, .side_widget>ul>li a:hover, .side_widget>ul>li a.active, .layer, .tp-bgimg.defaultimg:before {
+    background: rgba(207, 49, 130, 1);
+    background: -moz-linear-gradient(left, rgba(207, 49, 130, 1) 0%, rgba(207, 49, 130, 0.89) 36%, rgba(238, 132, 87, 0.8) 66%, rgba(238, 132, 87, 0.7) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(207, 49, 130, 1)), color-stop(36%, rgba(207, 49, 130, 0.89)), color-stop(66%, rgba(238, 132, 87, 0.8)), color-stop(100%, rgba(238, 132, 87, 0.7)));
+    background: -webkit-linear-gradient(left, rgba(207, 49, 130, 1) 0%, rgba(207, 49, 130, 0.89) 36%, rgba(238, 132, 87, 0.8) 66%, rgba(238, 132, 87, 0.7) 100%);
+    background: -o-linear-gradient(left, rgba(207, 49, 130, 1) 0%, rgba(207, 49, 130, 0.89) 36%, rgba(238, 132, 87, 0.8) 66%, rgba(238, 132, 87, 0.7) 100%);
+    background: -ms-linear-gradient(left, rgba(207, 49, 130, 1) 0%, rgba(207, 49, 130, 0.89) 36%, rgba(238, 132, 87, 0.8) 66%, rgba(238, 132, 87, 0.7) 100%);
+    background: linear-gradient(to right, rgba(207, 49, 130, 1) 0%, rgba(207, 49, 130, 0.89) 36%, rgba(238, 132, 87, 0.8) 66%, rgba(238, 132, 87, 0.7) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cf3182', endColorstr='#ee8457', GradientType=1)
+}
+
+.main_info .info_inner h4 {
+    color: #cf3183
+}
+
+.main_info .info_inner h5, footer.hp5 .footer_detail ul li i {
+    color: #ee8557
+}
+
+.heading h3 span {
+    color: #cf3183
+}
+
+.heading:after, footer.hp5 .footer_widget h4:after, .cd-top.st2, .award_wrap_second .heading:after, .footer_second .footer_widget h4:after {
+    background: #ee8557
+}
+
+.department .inner_dep, .testi_inner {
+    background: rgba(209, 60, 136, 0.82)
+}
+
+.footer_detail ul li i {
+    color: #ee8557
+}
+
+.header_bottom {
+    background: #ee8557
+}
+
+.header_bottom form input[type="text"] {
+    background: #dc794e
+}
+
+.header_bottom form a {
+    background: #e06731
+}
+
+.slide_content .iner_content h4 {
+    color: #ee8557
+}
+
+.appointment_wrap .inner_appointments, .promotion.st2 .inner_promotion {
+    background: rgba(242, 163, 129, 0.89)
+}
+
+.contact_detail .address, .side_widget form button, .forms-fiedls form button, footer.hp5 .button, .testi_three.st2 .heading:after, .title:before, .heading.hp5:after, .testi_three.st2 p:before, .header-09 .navhead, .line, .services_sec9 .owl-nav .owl-next, .gtransport .featurs .feat:hover i, .cta_btn a, .msg_form .button, .header-09 .hbutn:hover, .main-slider2 .lyr4:hover, .footer_second .button, .navigation-bar_10 .navhead, .service_sec2 .card:hover .btn, .stats_sec2 .stats-head-outer, .btn_11 a {
+    background: #cf3183
+}
+
+.maped_detail.contact_detail .address.pink {
+    background: #ee8557
+}
+
+.shop_wrap .price p strong {
+    color: #cf3183
+}
+
+.shop_wrap .star i {
+    color: #f2a07d
+}
+
+div#slider-range span {
+    background: #f09a79
+}
+
+.recent_post ul li span {
+    color: #d13a87
+}
+
+.shop span {
+    color: #f1a17e
+}
+
+.shop .button:hover, .shop:hover .button {
+    background: #d23e8a;
+    border-color: #d13c89
+}
+
+.shop_cates li div h3, .recent_post ul li span {
+    color: #d13a87
+}
+
+.column-outer:hover .icon_box {
+    border-color: #d13a87;
+}
+
+.column-outer:hover .head_area, .range .button:hover {
+    background: #d23e8a;
+}
+
+.shop_cates li div a i, .price_area h1 span, .column-outer:hover .price_area h1 span {
+    color: #f2a482
+}
+
+.botom-bar, .appointment-lnk a, .pt-service:hover, .post-date, .client-review-carousel .owl-dot.active, .widget-about form button, .counter-section:before, .responsive_button, .topbar .social_icon ul li a i:hover, .responsive_nav ul li a:hover, .head_area, .column-outer:hover .price_area, .column-outer:hover, .shop_wrap .heading a {
+    background-color: #ee8557;
+}
+
+.logo_text span {
+    color: #ee8557;
+}
+
+.column-outer, .icon_box {
+    border-color: #ee8557;
+}
+
+#menu_11 .mainmenu nav ul li a:hover, .cart_11 a:hover, .prevent_list ul li:before, .doctors-list ul li span, .about_style11 .about_text span, .features_list ul li:before, .product_style11 .heding span, .contact_info .heding span, .news_details .n_readmore:before, .imed_detail span, .symp_img .heding span, .prevent_slider .heding span, .symptom_block .heding span, .my-selector a:hover, .my-selector a.selected {
+    color: #ee8557;
+}
+
+.symp_lists ul li .sym_icon {
+    border: 1px solid #ee8557;
+}
+
+#menu_11 .mainmenu nav ul li ul li:hover, .prevention_info .p_sidebar .s_title:after, .symp_inner li:hover .symp_d, .prevent_openingtime, .met_doctors .headnig:after, .product_style11 .heding p:after, .contact_info .heding h2:after, .contact_details form input[type='button'], .prevent_slider .heding p:after, .owl_prevent_slider .owl-dots .owl-dot.active span, .m_button .btn_red, .product_block .p_details a:hover, .news_style11 .heding p:after, .quick_tips .heding p:after, .about_style11 .about_text h2:after, .footer11 .button, .imed_detail h2:after, .symp_img .heding h2:after, .symptom_block .heding h2:after {
+    background-color: #ee8557;
+}
+
+.item_inner .overlay {
+    background-color: rgba(238, 132, 87, 0.8);
+}
+
+.product_block .p_details a {
+    border: 2px solid #ee8557;
+}
+
+header nav ul li a:hover {
+    color: #cf3183;
+}
+
+.header_bottom nav ul li a:hover {
+    color: #cf3183;
+}
+
+.service-info i, .toggle-item h2:before, .post-links ul li i, .post-links>a, .widget-tweets ul li a, .title2 h2 span, .heading2 h3, .heading3 h3 {
+    color: #ee8557;
+}
+
+.service-info i {
+    border-color: #ee8557;
+}
+
+.footer_widget .social a:hover {
+    border: 0px;
+    background: #ee8557;
+}
+
+.spa-slider .lyr4 {
+    background-color: #ee8557;
+    color: #fff;
+    border: 1px solid #ee8557;
+}
+
+.spa-slider .lyr4:hover {
+    background-color: transparent;
+    color: #ee8557;
+}
+
+.header-09 nav>ul, .cta_btn a:hover, .msg_form .button:hover {
+    border-color: #cf3183;
+}
+
+.header-09 .navhead:before {
+    border-top: 73px solid transparent;
+    border-right: 35px solid #cf3183;
+}
+
+.features-09 .feat:hover:after {
+    border-left: 10px solid transparent;
+    border-bottom: 10px solid #cf3183;
+}
+
+.features-09 .feat:hover:after {
+    border-left: 10px solid transparent;
+    border-bottom: 10px solid #cf3183;
+}
+
+.features-09 .feat:hover:after {
+    border-left: 10px solid transparent;
+    border-bottom: 10px solid #cf3183;
+}
+
+.features-09 .feat:hover:after {
+    border-left: 10px solid transparent;
+    border-bottom: 10px solid #cf3183;
+}
+
+.service_sec2 .card:hover:after {
+    border-bottom-color: #cf3183;
+}
+
+.service_tab:hover:after {
+    border-bottom-color: #cf3183;
+}
+
+.navigation-bar_10 .navhead::before {
+    border-top: 73px solid #222;
+    border-right: 40px solid #cf3183;
+}
+
+/*Homepage 10 & Services 03 Contact 03*/
+
+header.header_style_ten ul li i, header.header_style_ten nav ul ul li a:hover, .about_sectwo .about_content .heading h5, .shop_section .product_detail .price, .shop_section .product_detail .name:hover a, .news_section .news_block .news_detail h5:hover a, .news_section .news_block .info li a, .lab_testimonials.style_two h5:before, .lab_testimonials.style_two h5:after, .cos_two .price_area h1, .column-outer.cos_two:hover .head_area h1, .cos_two .price_area h1 span, .column-outer.cos_two:hover .price_area h1 span, .cd_two .heading h3 span {
+    color: #cf3183 !important;
+}
+
+header.header_style_ten .header_bottom, .main-slider.style_two .lyr4:hover, .three_column_sec .news_column:hover .inner_column, .about_sectwo .about_content .heading:after, .heading.style_two:after, .shop_slider .owl-dots .owl-dot.active, footer.style_two .footer_detail, footer.style_two .footer_widget h4:after, footer.style_two .footer_widget .social a:hover, .responsive_button.rb_2, .responsive_nav.rn_2 ul li a:hover, .cd_two .heading:after, .contact_detail.cd_two .address {
+    background: #cf3183;
+}
+
+header.header_style_ten .header_bottom form a {
+    background: #f13094;
+}
+
+header.header_style_ten .button:hover {
+    background: #cf3183;
+    border-color: #cf3183;
+}
+
+.counter_sec .inner_sec:before {
+    background-color: rgba(207, 49, 131, 0.8);
+}
+
+.three_column_sec .news_column a.read_more {
+    color: #cf3183;
+    border-bottom: 1px solid #cf3183;
+}
+
+.promotion.style_two .inner_promotion .button:hover {
+    background: #cf3183;
+    border: 1px solid #cf3183;
+}
+
+.shop_section .product_detail .category:hover a {
+    color: #cf3183;
+    border-bottom: 1px solid #cf3183;
+}
+
+.cannabis_counter .circle-chart__background {
+    stroke: #cf3183;
+}
+
+.footer_detail p {
+    color: #fff;
+}
+
+.cos_two:hover .foot_area .button {
+    background: #cf3183;
+    border: 2px solid #cf3183;
+}
+
+.contact_detail.cd_two .button:hover {
+    background: #ff5cb136;
+    border-color: #ff5cb136;
+}

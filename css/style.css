@@ -8391,10 +8391,11 @@ article.news.dep_details figure {
 }
 .lab_number {
   background: #106bd1;
-  padding: 30px 60px;
+  padding: 30px 18px;
   position: absolute;
   left: 0;
   bottom: 50px;
+  width: max-content;
 }
 
 .facility_sec p.details1 {
@@ -8481,7 +8482,9 @@ article.news.dep_details figure {
   background-repeat: no-repeat;
   z-index: -1;
 }
-
+.facility_sec1:before {
+  background: none !important;
+}
 .progress_bar_wrap label {
   font: 600 14px "Poppins", sans-serif;
   color: #444;

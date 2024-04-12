@@ -2489,16 +2489,16 @@
     display: none;
   }
   .facility_sec .lab_number p {
-    font-size: 18px;
+    font-size: 25px;
   }
   .facility_sec .lab_number p span a {
     font-size: 24px;
   }
   .facility_left:before {
-    bottom: 100px;
+    bottom: 99px;
   }
   .facility_left:after {
-    bottom: 130px;
+    bottom: 125px;
   }
   .facility_left {
     padding-left: 0;
@@ -2766,7 +2766,7 @@
   }
   .facility_left:before {
     /* bottom: auto; */
-    bottom: 100px;
+    bottom: 95px;
     /* top: 0; */
     left: 0px;
     /* border-left: 0; */
@@ -2775,13 +2775,13 @@
   }
   .facility_left:after {
     /* bottom: auto; */
-    bottom: 125px;
+    bottom: 123px;
     /* top: 10px; */
     /* left: 30px; */
     left: 10px;
   }
   .facility_sec .lab_number p {
-    font-size: 14px;
+    font-size: 20px;
   }
   .facility_sec .lab_number p span a {
     /* font-size: 16px; */

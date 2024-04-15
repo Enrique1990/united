@@ -567,7 +567,7 @@ label {
 
 .heading h3 {
   font-size: 36px;
-  color: #444444;
+  color: #000000;
   font-weight: 600;
   margin-bottom: 10px;
   margin-top: 5%;
@@ -591,7 +591,7 @@ label {
 }
 
 .heading p {
-  color: #444444;
+  color: #3f3f3f;
   padding-bottom: 20px;
 }
 
@@ -8200,7 +8200,7 @@ article.news.dep_details figure {
 }
 .services_box p {
   font: 500 14px "Poppins", sans-serif;
-  color: #888;
+  color: #3f3f3f;
 }
 
 .laborities_section {
@@ -8346,7 +8346,7 @@ article.news.dep_details figure {
 
 .facility_sec p.details {
   font: 400 16px "Poppins", sans-serif;
-  color: #888;
+  color: black;
   margin-bottom: 30px;
 }
 
@@ -8400,7 +8400,7 @@ article.news.dep_details figure {
 
 .facility_sec p.details1 {
   font: 400 16px "Poppins", sans-serif;
-  color: #5d5d5d;
+  color: black;
   margin-bottom: 5px;
 }
 .facility_left:before {
@@ -8467,7 +8467,7 @@ article.news.dep_details figure {
 
 .facility_sec p {
   font: 500 16px "Poppins", sans-serif;
-  color: #888;
+  color: black;
 }
 
 .facility_sec:before {

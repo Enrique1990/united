@@ -2753,7 +2753,7 @@
     margin-bottom: 100px;
   }
   .lab_number {
-    padding: 30px 50px;
+    padding: 30px 42.5px;
     position: relative;
   }
   .facility_left {
@@ -3093,10 +3093,10 @@
     display: block;
   }
   .facility_left:before {
-    bottom: 120px;
+    bottom: 127px;
   }
   .facility_left:after {
-    bottom: 145px;
+    bottom: 155px;
   }
   .cart_page_btn2 {
     position: relative;
